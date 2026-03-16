@@ -1,2 +1,3 @@
-# avacado
-Passionate about coding, technology, and startups. Currently learning development and building projects to solve real-world problems.
+# aneetaxy
+Aspiring developer and tech entrepreneur 🚀
+Building projects, learning new technologies, and exploring the world of software development.
